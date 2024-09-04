@@ -2,6 +2,10 @@
 Parkinson's Disease Prediction Using Machine Learning Algorithm. Abstract: Parkinson's disease (PD) is a progressive central nervous system disorder characterized by tremors, vocal cord disorders, bradykinesia, and slurred, slow speech. After Alzheimer's disease, it is the second most prevalent neurological disorder
 Parkinson 🧠 Disease ⚕️ Detection 🔍
 forthebadge made-with-python
+
+
+
+
 This project aims to make use of Machine Learning techniques to detect instances of Parkinson's Disease. The project performs the following tasks:
 1️⃣ Data Collection
 2️⃣ Data Preprocessing
@@ -9,10 +13,10 @@ This project aims to make use of Machine Learning techniques to detect instances
 4️⃣ Dataset Balancing & Scaling
 5️⃣ Machine Learning Models Training & Evaluation
 
+
+
 Dataset Details
 Dataset Used : Parkinsons Disease Dataset
-Dataset Source : UCI Machine Learning Repository
-Dataset Hosting URL : https://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/parkinsons.data
 
 Machine Learning Models Trained & Evaluated
 The following Machine Learning models were trained and evaluated:
